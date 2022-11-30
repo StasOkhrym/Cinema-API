@@ -7,7 +7,7 @@ API service for cinema management written on DRF
 Install PostgreSQL and create db
 
 ```shell
-git clone https://github.com/shurushku/cinema-API.git
+git clone https://github.com/StasOkhrym/Cinema-API.git
 git checkout develop
 python -m venv venv
 source venv/bin/activate (Linux and macOS) or venv\Scripts\activate (Windows)
